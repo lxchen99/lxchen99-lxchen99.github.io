@@ -26,22 +26,22 @@ I am a passionate and proactive individual, having received various university s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-004730@2x.png' alt="channel" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication]()
-
- - Lingji Xu, **Lixing Chen**, Yaan Li and Weihua Jiang*
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-010349@2x.png' alt="MSTCT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  - [Multiple synchro-tuning chirplet transform]()
 
- - Lingji Xu, **Lixing Chen**, Zixin Wang, Weihua Jiang*, Zhenglin Li
+ - I developed a novel Chirp rate estimator and  an algorithm name MSTCT that integrates a new tuning operator into the SST, which published in _Digital Signal Processing_ (JCR Q2).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-004730@2x.png' alt="channel" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication]()
+
+ - A block sparse dynamic compressive sensing algorithm (BS-CS) was proposed, reduces the bit error rate by 6.59% compared to the LSQR method, which published in _Journal of Marine Science and Engineering_ (JCR Q2).
 
 </div>
 </div>
