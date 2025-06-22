@@ -33,6 +33,9 @@ I am a passionate and proactive individual, having received various university s
 
 Lingji Xu, **Lixing Chen**, Yaan Li and Weihua Jiang*
 
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
