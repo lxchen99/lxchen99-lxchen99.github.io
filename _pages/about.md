@@ -29,7 +29,7 @@ I am a passionate and proactive individual, having received various university s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1750628107560.jpg' alt="channel" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication]
+ - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication]()
 
 Lingji Xu, **Lixing Chen**, Yaan Li and Weihua Jiang*
 
