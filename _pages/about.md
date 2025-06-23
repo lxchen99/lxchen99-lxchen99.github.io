@@ -73,3 +73,16 @@ I am a passionate and proactive individual, having received various university s
 - *2024.12 - now*, Ph.D. Student, University of Haifa.
 - *2021.09 - 2024.06*, Master of Engineering, Sun Yat-sen University, GPA: 90.84/100.
 - *2017.09 - 2021.06*, Bachelor of Mathematics, Huazhong Agricultural University, GPA: 85.26/100. 
+
+# 🌱 Voluntary Activity
+- *2023.10 - 2024.04* Volunteer during the Covid-19 at campus, Zhuhai, China
+- *2020.04 - 2020.08* Volunteer during the beginning of Covid-19, Huizhou, China
+- *2018.07* Summer Teaching Program in Poor Areas of Huangmei, China.
+- *2018.03* Assistance to in school for deaf-mutes of Wuhan, China.
+
+# 🎼 Arts & Culture Activity
+- *2019.11 - 2021.03* Member of CHICHEN Dance Group
+- *2018.12* Campus Singer Competition, _Top 5_
+- *2018.07* As member of Base in The China International Chorus Festival (CICF),_ LEVEL A_, Honor belongs to HZAU Universe Chorus 🥳
+  Miss u guys and the time we spend together, never forget the more than 30 stages we climbed together 🥺
+- *2017.12* College of Science Basketball Tournament, _WE ARE THE CHAMPION_ 🏆🏆
