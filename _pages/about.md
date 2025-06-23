@@ -62,18 +62,14 @@ I am a passionate and proactive individual, having received various university s
 - *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduates (5%) of Sun Yat-sen University. 
+- *2024.06* Outstanding Graduates (5%) of Sun Yat-sen University.
+- *2021-2024* First-Prize grant (5%) for graduate students in Sun Yat-sen University.
 - *2020.09* National First Prize (5%) of Asia and Pacific Mathematical Contest in Modeling.
 - *2018.11* Excellent League Member.
 - *2018.10* Merit Student.
+- *2017-2021* First-Prize grant (10%) for undergraduate students in Huazhong Agricultural University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - now*, Ph.D. Student, University of Haifa.
+- *2021.09 - 2024.06*, Master of Engineering, Sun Yat-sen University, GPA: 90.84/100.
+- *2017.09 - 2021.06*, Bachelor of Mathematics, Huazhong Agricultural University, GPA: 85.26/100. 
