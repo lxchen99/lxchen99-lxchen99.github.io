@@ -29,7 +29,7 @@ I am a passionate and proactive individual, having received various university s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-010349@2x.png' alt="MSTCT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- - [Multiple synchro-tuning chirplet transform]()
+ - [Multiple synchro-tuning chirplet transform](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003470)
 
  - I developed a novel Chirp rate estimator and  an algorithm name MSTCT that integrates a new tuning operator into the SST, which published in _Digital Signal Processing_ (JCR Q2).
 
@@ -39,7 +39,7 @@ I am a passionate and proactive individual, having received various university s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-004730@2x.png' alt="channel" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication]()
+ - [A Block Sparse-Based Dynamic Compressed Sensing Channel Estimator for Underwater Acoustic Communication](https://www.mdpi.com/2077-1312/10/4/536)
 
  - A block sparse dynamic compressive sensing algorithm (BS-CS) was proposed, reduces the bit error rate by 6.59% compared to the LSQR method, which published in _Journal of Marine Science and Engineering_ (JCR Q2).
 
@@ -49,7 +49,7 @@ I am a passionate and proactive individual, having received various university s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-130455@2x.png' alt="UnetTFR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- - [Enhancing time‐frequency resolution via deep‐learning framework]()
+ - [Enhancing time‐frequency resolution via deep‐learning framework](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sil2.12210)
 
  - A novel fully‐convolutional encoder‐decoder network is trained to preserve effective features and acquire the optimal time‐frequency kernel, which published in _IET Signal Processing_ (JCR Q2).
 
