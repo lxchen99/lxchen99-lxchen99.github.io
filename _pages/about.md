@@ -62,8 +62,10 @@ I am a passionate and proactive individual, having received various university s
 - *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduates (5%) of Sun Yat-sen University. 
+- *2020.09* National First Prize (5%) of Asia and Pacific Mathematical Contest in Modeling.
+- *2018.11* Excellent League Member.
+- *2018.10* Merit Student.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
