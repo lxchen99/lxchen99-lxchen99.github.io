@@ -19,9 +19,9 @@ redirect_from:
 
 I am a first-year Ph.D. student at the University of Haifa, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors through a blend of signal processing and deep learning methods, including feature analysis, tracking, and causal learning. This work is generously supported by the University of Haifa Bloom Scholarship, one of the most prestigious awards given to only 12 students annually. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
 
-I earned my Bachelor's degree in Mathematics from Huazhong Agricultural University in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at Sun Yat-sen University in 2024, where my primary focus was on signal processing algorithms. I was recognized as an "Outstanding Graduate of Sun Yat-sen University" (Top 5%). From July to November 2024, I worked as a Assistant Engineer at Guangzhou Marine Geological Survey, where I focused on 3D deep-sea seafloor imaging algorithms and sonar research.
+I earned my Bachelor's degree in Mathematics from Huazhong Agricultural University in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at Sun Yat-sen University in 2024, where my primary focus was on signal processing algorithms. I was recognized as an "Outstanding Graduate of Sun Yat-sen University" (Top 5%). From July to November 2024, I worked as a Assistant Engineer at **Guangzhou Marine Geological Survey**, where I focused on 3D deep-sea seafloor imaging algorithms and sonar research.
 
-I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, Cpp, and Matlab etc. Additionally, I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Italian and Hebrew.
+I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, Cpp, and Matlab etc. I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Italian and Hebrew.
 
 
 # 📝 Publications 
@@ -46,6 +46,15 @@ I am a passionate and proactive individual, having received various university s
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WX20250623-130455@2x.png' alt="UnetTFR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ - [Enhancing time‐frequency resolution via deep‐learning framework]()
+
+ - A novel fully‐convolutional encoder‐decoder network is trained to preserve effective features and acquire the optimal time‐frequency kernel, which published in _IET Signal Processing_ (JCR Q2).
+
+</div>
+</div>
 
 
 # 🔥 News
