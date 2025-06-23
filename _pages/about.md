@@ -84,5 +84,5 @@ I am a passionate and proactive individual, having received various university s
 - *2019.11 - 2021.03* Member of CHICHEN Dance Group
 - *2018.12* Campus Singer Competition, _Top 5_
 - *2018.07* As member of Base in The China International Chorus Festival (CICF), _LEVEL A_, Honor belongs to HZAU Universe Chorus 🥳
-  Miss u guys and the time we spend together, never forget the more than 30 stages we climbed together 🥺
+- *2018.04 - 2020.10* Base member of HZAU Universe Chorus, Miss u guys and the time we spend together, never forget the more than 30 stages we climbed together 🥺
 - *2017.12* College of Science Basketball Tournament, _WE ARE THE CHAMPION_ 🏆🏆
