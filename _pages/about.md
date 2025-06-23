@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a first-year Ph.D. student at the University of Haifa, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors through a blend of signal processing and deep learning methods, including feature analysis, tracking, and causal learning. This work is generously supported by the University of Haifa Bloom Scholarship, one of the most prestigious awards given to only 12 students annually. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
+Hi! I am a first-year Ph.D. student at _University of Haifa_, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors through a blend of signal processing and deep learning methods, including feature analysis, tracking, and causal learning. This work is generously supported by **the University of Haifa Bloom Scholarship**, one of the most prestigious awards given to only 12 students annually. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
 
-I earned my Bachelor's degree in Mathematics from Huazhong Agricultural University in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at Sun Yat-sen University in 2024, where my primary focus was on signal processing algorithms. I was recognized as an "Outstanding Graduate of Sun Yat-sen University" (Top 5%). From July to November 2024, I worked as a Assistant Engineer at **Guangzhou Marine Geological Survey**, where I focused on 3D deep-sea seafloor imaging algorithms and sonar research.
+I earned my Bachelor's degree in Mathematics from _Huazhong Agricultural University_ in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at _Sun Yat-sen University_ in 2024, where my primary focus was on signal processing algorithms. I was recognized as an **Outstanding Graduate** (Top 5%). From July to November 2024, I worked as a Assistant Engineer at **Guangzhou Marine Geological Survey**, where I focused on 3D deep-sea seafloor imaging algorithms and sonar research.
 
-I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, Cpp, and Matlab etc. I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Italian and Hebrew.
+I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, C++, and Matlab etc. I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Italian and Hebrew.
 
 
 # 📝 Publications 
@@ -62,7 +62,7 @@ I am a passionate and proactive individual, having received various university s
 - *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduates (5%) of Sun Yat-sen University.
+- *2024.06* Outstanding Graduates (5%).
 - *2021-2024* First-Prize grant (5%) for graduate students in Sun Yat-sen University.
 - *2020.09* National First Prize (5%) of Asia and Pacific Mathematical Contest in Modeling.
 - *2018.11* Excellent League Member.
