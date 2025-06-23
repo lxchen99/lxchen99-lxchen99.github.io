@@ -70,7 +70,7 @@ I am a passionate and proactive individual, having received various university s
 - *2017-2021* First-Prize grant (10%) for undergraduate students in Huazhong Agricultural University.
 
 # 📖 Educations
-- *2024.12 - now*, Ph.D. Student, University of Haifa.
+- *2024.12 - now*, Ph.D. Student in Marnie Technologies, University of Haifa.
 - *2021.09 - 2024.06*, Master of Engineering, Sun Yat-sen University, GPA: 90.84/100.
 - *2017.09 - 2021.06*, Bachelor of Mathematics, Huazhong Agricultural University, GPA: 85.26/100. 
 
