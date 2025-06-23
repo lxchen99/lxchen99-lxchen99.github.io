@@ -58,8 +58,8 @@ I am a passionate and proactive individual, having received various university s
 
 
 # 🔥 Conferences
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 **Conference cover article**, Zhengzhou, China, Combining Synchrosqueezing Transform and Encoder-Decoder Classification Network for Modulation Recognition of Underwater Acoustic Communication Signals, _2023 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)_.
+- *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
