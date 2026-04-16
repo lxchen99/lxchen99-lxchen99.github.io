@@ -19,9 +19,9 @@ redirect_from:
 
 Hi! I am a first-year Ph.D. student at _University of Haifa_, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors through a blend of signal processing and deep learning methods, including feature analysis, tracking, and interpretable clustering. This work is generously supported by **the Hatter Scholarship** and **the Bloom Scholarship**. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
 
-I earned my Bachelor's degree in Mathematics from _Huazhong Agricultural University_ in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at _Sun Yat-sen University_ in 2024, where my primary focus was on signal processing algorithms. I was awarded as an **Outstanding Graduate** (Top 5%). From July to November 2024, I worked as a Assistant Engineer at **Guangzhou Marine Geological Survey**, where I focused on 3D deep-sea seafloor imaging algorithms and sonar research.
+I earned my Bachelor's degree in Mathematics from _Huazhong Agricultural University_ in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at _Sun Yat-sen University_ in 2024. I was awarded as an **Outstanding Graduate** (Top 5%). 
 
-I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, C++, and Matlab etc. I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Italian and Hebrew.
+I am a passionate and proactive individual, having received various university scholarships since 2017 till now. My technical proficiencies include Python, C, C++, and Matlab etc. I am fluent in English (TOEFL 108), Korean (TOPIK Level 4), and a native speaker of both Cantonese and Mandarin. I am currently expanding my linguistic skills by learning Spanish and Hebrew.
 
 
 # 📝 Publications 
@@ -65,14 +65,13 @@ I am a passionate and proactive individual, having received various university s
 - *2024.06* Outstanding Graduates (5%).
 - *2021-2024* First-Prize grant (5%) for graduate students in Sun Yat-sen University.
 - *2020.09* National First Prize (5%) of Asia and Pacific Mathematical Contest in Modeling.
-- *2018.11* Excellent League Member.
 - *2018.10* Merit Student.
 - *2017-2021* First-Prize grant (10%) for undergraduate students in Huazhong Agricultural University.
 
 # 📖 Educations
 - *2024.12 - now*, Ph.D. Student in Marnie Technologies, University of Haifa.
 - *2021.09 - 2024.06*, Master of Engineering, Sun Yat-sen University, GPA: 90.84/100.
-- *2017.09 - 2021.06*, Bachelor of Mathematics, Huazhong Agricultural University, GPA: 85.26/100. 
+- *2017.09 - 2021.06*, Bachelor of Science, Huazhong Agricultural University, GPA: 85.26/100. 
 
 # 🌱 Voluntary Activity
 - *2023.10 - 2024.04* Volunteer during the Covid-19 at campus, Zhuhai, China
