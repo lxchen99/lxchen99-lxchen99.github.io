@@ -58,6 +58,7 @@ I am a passionate and proactive individual, having received various university s
 
 
 # 🔥 Conferences
+- *2026.06*: &nbsp;🎉🎉 **The 3rd-best oral presentation**, Haifa, Israel, Invitation for a Cocktail Party: Clustering of Dolphin Whistles by Source, _the Marine Technologies Conference (MTC2)_.
 - *2023.11*: &nbsp;🎉🎉 **Conference cover article**, Zhengzhou, China, Combining Synchrosqueezing Transform and Encoder-Decoder Classification Network for Modulation Recognition of Underwater Acoustic Communication Signals, _2023 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)_.
 - *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
 
