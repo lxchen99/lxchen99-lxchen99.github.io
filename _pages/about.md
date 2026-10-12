@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a second-year Ph.D. student at _University of Haifa_, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors. This work is generously supported by **the Hatter Scholarship** and **the Bloom Scholarship**. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
+Hi! I am a third-year Ph.D. student at _University of Haifa_, working under the supervision of Prof. Roee Diamant. My research focuses on exploring dolphin whistles and the diversity of their species-specific behaviors. This work is generously supported by **the Hatter Scholarship** and **the Bloom Scholarship**. If you are interested in potential collaborations or multidisciplinary integration, please feel free to contact me via email at chenris83chan@outlook.com.
 
 I earned my Bachelor's degree in Mathematics from _Huazhong Agricultural University_ in 2021. Subsequently, I returned to my hometown and completed my Master of Engineering degree at _Sun Yat-sen University_ in 2024. I was awarded as an **Outstanding Graduate** (Top 5%). 
 
@@ -58,6 +58,7 @@ I am a passionate and proactive individual, having received various university s
 
 
 # 🔥 Conferences
+- *2026.10*: &nbsp;🎉🎉 **Best Paper Award**, Haifa, Israel, Dolphin whistle source separation: A bearings tracking approach using vector hydrophone, _Israel Bioacoustic Conference 2026_.
 - *2026.06*: &nbsp;🎉🎉 **The 3rd-best oral presentation**, Haifa, Israel, Invitation for a Cocktail Party: Clustering of Dolphin Whistles by Source, _the Marine Technologies Conference (MTC2)_.
 - *2023.11*: &nbsp;🎉🎉 **Conference cover article**, Zhengzhou, China, Combining Synchrosqueezing Transform and Encoder-Decoder Classification Network for Modulation Recognition of Underwater Acoustic Communication Signals, _2023 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)_.
 - *2023.09*: &nbsp;🎉🎉 **Best Presentation Award**, Xi'an,China, A General Parameterized Time-Frequency Analysis Based on Multiple Squeezing Mechanism, _2023 6th International Conference on Information Communication and Signal Processing (ICICSP)_. 
